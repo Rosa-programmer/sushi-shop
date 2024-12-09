@@ -2,13 +2,15 @@
     {
       "id": "set-fantastychnyy",
       "title": "Сет Гурман",
+      "weight": "710г",
       "price": "620₴",
       "image": "set-fantasticniu.jpg",
       "description": "Філадельфія з лососем (Авокадо, Крем сир, Лосось, Огірок, Рис), Кранч з креветкою..."
     },
     {
       "id":"set-sensei",
-      "title": "Сет Семпай",
+      "title": "Сет Сенсей",
+      "weight": "1030г",
       "price": "549₴",
       "image": "set-ronin.jpg",
       "description": "Каліфорнія темпура (Авокадо, Крабовий мікс, Огірок, Перець болгарський, Рис), Темпур..."
@@ -16,6 +18,7 @@
     {
       "id":"set-spokusa",
       "title": "Сет Спокуса",
+      "weight": "765г",
       "price": "567₴",
       "image": "set-spokysa.jpg",
       "description": "Філадельфія з лососем (Авокадо, Крем сир, Лосось, Огірок, Рис), Каліфорнія з вугрем в..."
@@ -23,6 +26,7 @@
     {
       "id":"set-banzaj",
       "title": "Сет Банзай",
+      "weight": "955г",
       "price": "599₴",
       "image": "set-banzai.jpg",
       "description": "Філадельфія дует (Крем сир, Лосось, Огірок, Рис, Тунець), Футомакі з креветкою (Креветка..."
@@ -30,6 +34,7 @@
     {
       "id":"set-binho",
       "title": "Сет Бінго",
+      "weight": "400г",
       "price": "759₴",
       "image": "set-bingo.jpg",
       "description": "Філадельфія Лайт NEW, Фелікс рол, Кранч з креветкою..."
@@ -37,6 +42,7 @@
     {
       "id":"set-dzhumandzhi",
       "title": "Сет Джуманджі",
+      "weight": "777г",
       "price": "801₴",
       "image": "set-dzhymangzhi.jpg",
       "description": "Філа Лайт, Футомакі з лососем, Філадельфія..."
@@ -44,6 +50,7 @@
     {
       "id":"set-maldivy",
       "title": "Сет Мальдіви",
+      "weight": "895г",
       "price": "647₴",
       "image": "set-maldivi-sushi.jpg",
       "description": "Філадельфія Лайт, Каліфорнія темпура..."
@@ -51,6 +58,7 @@
     {
       "id":"set-favorit",
       "title": "Сет Фаворит",
+      "weight": "1245г",
       "price": "523₴",
       "image": "set-favorit.jpg",
       "description": "Фелікс рол, Філадельфія у вугрі, Макі з креветкою..."

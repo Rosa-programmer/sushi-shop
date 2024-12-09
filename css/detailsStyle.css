@@ -1,0 +1,79 @@
+.main {
+    padding: 150px 0;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.card-details {
+    display: flex;
+    gap: 50px;
+    align-items: flex-start; 
+}
+
+.images {
+    flex: 2 1 60%;
+    text-align: left;
+}
+
+.images img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+}
+
+.details {
+    flex: 3 1 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: left;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #222;
+    margin-bottom: 15px;
+}
+
+.weight {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.price {
+    font-size: 2rem;
+    color: #e63946;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.price span {
+    font-size: 1rem;
+    color: #888;
+    text-decoration: line-through;
+    margin-left: 10px;
+}
+
+.desc {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.buy_btn {
+    background-color: #5e8aa3;
+    color: #fff;
+    font-size: 1rem;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.buy_btn:hover {
+    background-color: #3c5b6d;
+    transform: scale(1.05);
+}
